@@ -9,7 +9,7 @@ function OfferSection() {
 					<p className="text-center font-semibold text-xl">
 						Review our offer again and move forward when you're ready.
 					</p>
-					<button className="bg-purple-950 text-white font-semibold rounded-lg p-3">
+					<button className="bg-purple-950 text-white font-semibold rounded-lg p-3 cursor-pointer">
 						Get Started
 					</button>
 				</div>
